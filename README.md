@@ -15,7 +15,7 @@ education:
 
 fields_of_interests:
   [
-    "Web Development",
+    "Front-End & Web Development",
     "Data Science",
     "UI/UX",
     "DevOps",
