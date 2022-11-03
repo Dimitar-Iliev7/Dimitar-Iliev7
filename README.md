@@ -1,16 +1,28 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
-<!--
-**Dimitar-Iliev7/Dimitar-Iliev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.instagram.com/dimitar7iliev/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
 
-Here are some ideas to get you started:
+name: Dimitar Iliev
+located_in: Sofia, Bulgaria
+education:
+  [
+    "Self-Taught Developer",
+    "Master's in Cinema and Theater Arts",
+    "Bachelor's in Stage Directing",
+  ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "UI/UX",
+    "DevOps",
+  ]
+  
+currently_learning: ["Docker,React Native, SQL"]
+2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+hobbies: ["Gaming", "Cinema", "Art"]
