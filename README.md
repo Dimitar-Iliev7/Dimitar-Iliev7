@@ -9,7 +9,7 @@ located_in: Sofia, Bulgaria
 education:
   [
     "Self-Taught Developer",
-    "Master's in Cinema and Theater Arts" NATFA,
+    "Master's in Cinema and Theater Arts",
     "Bachelor's in Stage Directing",
   ]
 
