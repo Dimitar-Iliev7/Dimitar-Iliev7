@@ -10,7 +10,7 @@ education:
   [
     "Self-Taught Developer",
     "Master's in Cinema and Theater Arts",
-    "Bachelor's in Stage Directing",
+    "Bachelor's in Stage Directing"
   ]
 
 fields_of_interests:
@@ -18,7 +18,7 @@ fields_of_interests:
     "Front-End & Web Development",
     "Data Science",
     "UI/UX",
-    "DevOps",
+    "DevOps"
   ]
   
 currently_learning: ["Docker,React Native, SQL"]
